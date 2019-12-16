@@ -1,0 +1,53 @@
+body {
+	background-image: url("images/bg.jpg");
+	color: rgb(50,50,50);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+
+}
+#banner h1 {
+	font-size: 25px
+	font-family: 'Sulphur Point', sans-serif;
+	color: black;
+	
+
+
+}
+
+h2 {
+	font-family: 'Sulphur Point', sans-serif;
+	text-decoration: underline;
+
+
+	font-size: 20px;
+	color: #00A896;
+}
+a {
+	
+	font-weight: bold;
+	color: black;
+	font-size: 15,5px;
+}
+a:hover {
+	color: #8075FF;
+}
+
+div {background:beige;
+
+padding: 8px;
+margin:90px;
+border-radius: 13px;
+box-shadow: 5px 6px 25px rgba(0,0,0,0.5)}
+
+
+
+
+
+
+
+
+
+
+
+
+
